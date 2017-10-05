@@ -1,0 +1,29 @@
+{
+  "name": "node_what_todo",
+  "version": "1.0.0",
+  "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbeylynn/burger2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1",
+    "express-handlebars": "^2.0.1",
+    "handlebars": "^4.0.10",
+    "method-override": "^2.3.10",
+    "mysql": "^2.10.2",
+    "mysql2": "^1.4.2",
+    "sequelize": "^4.13.5",
+    "sequelize-cli": "^3.0.0"
+  },
+  "devDependencies": {
+    "handlebars-helper-css": "^0.1.0"
+  }
+}
